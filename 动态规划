@@ -1,1 +1,9 @@
 之所以用动态规划是因为动态规划有其他算法不能企及的少占用内存与速度。用一个二维数组代替无数次重复全搜。很多时限短的
+1、确定dp数组（dp table）以及下标的含义
+2、确定递推公式
+3、dp数组如何初始化
+4、确定遍历顺序
+5、举例推导dp数组
+背包九讲
+https://leetcode-cn.com/problems/unique-paths/不同路径
+https://leetcode-cn.com/problems/integer-break/整数拆分
